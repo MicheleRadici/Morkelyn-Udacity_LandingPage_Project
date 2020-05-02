@@ -20,7 +20,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 To develop the navbar and make it responsive, the Bootstrap framework to version v4.4.1 was used.
 
 ## Navbar
-The Navbar is dynamically generated. The sections present in the index.html and any additional sections are loaded.
+The Navbar is dynamically generated. The sections presented in the index.html and any additional sections are loaded.
 From these sections we proceed to fill the unordered list inside the nav and to dynamically insert the styles.
 
 ## Responsive
